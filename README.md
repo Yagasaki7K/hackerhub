@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1bdab9df-1e19-498e-a673-c5ddded9130d" alt="Hackhub"/>
+  <img src="https://github.com/user-attachments/assets/1bdab9df-1e19-498e-a673-c5ddded9130d" alt="Hackhub" width="100%"/>
 </p>
 
 # HackHub - Ultimate Hacker Simulator
