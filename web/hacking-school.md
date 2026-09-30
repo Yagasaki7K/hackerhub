@@ -1,6 +1,6 @@
 `nslookup new-request.name`
 
-to find the ip adress of the school.
+to find the ip address of the school.
 
 `nmap 56.44.12.45 -sV`
 
